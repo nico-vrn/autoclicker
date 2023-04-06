@@ -10,6 +10,7 @@ Pour utiliser ce projet, vous devez installer Node.js et NPM. Vous pouvez ensuit
 Pour exécuter les tests, vous pouvez utiliser la commande suivante :
 
 ```npm test```
+
 Ce projet contient un seul test de base qui déplace la souris en forme de carré en utilisant l'image de la souris trouvée dans le répertoire des ressources. Ce test utilise les bibliothèques NutJS pour trouver l'image de la souris à l'écran et RobotJS pour contrôler le mouvement de la souris.
 
 Vous pouvez ajouter d'autres tests en écrivant des fonctions Jest supplémentaires dans le dossier __tests__. Vous pouvez également ajouter d'autres images de souris dans le dossier e2e/assets pour tester d'autres mouvements de souris.
