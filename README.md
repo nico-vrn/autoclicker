@@ -5,13 +5,15 @@ Ce projet est une suite de tests automatisés utilisant le framework Jest et les
 Pour utiliser ce projet, vous devez installer Node.js et NPM. Vous pouvez ensuite cloner ce dépôt et installer les dépendances en exécutant la commande suivante dans le dossier du projet :
 
 ```sh
-npm install```
+npm install
+```
 
 # Utilisation
 Pour exécuter les tests, vous pouvez utiliser la commande suivante :
 
 ```sh
-npm test```
+npm test
+```
 
 Ce projet contient un seul test de base qui déplace la souris en forme de carré en utilisant l'image de la souris trouvée dans le répertoire des ressources. Ce test utilise les bibliothèques NutJS pour trouver l'image de la souris à l'écran et RobotJS pour contrôler le mouvement de la souris.
 
